@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Birthday Greeting App</string>
+    <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="app_designed_by_yazdan">App Designed by Yazdan</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="app_designed_by_yazdan2">App Designed by Yazdan</string>
+    <string name="happy_birthday">Happy Birthday</string>
+
+</resources>
